@@ -1,0 +1,14 @@
+C:\Users\Fabian\Documents\ejerccioS C#\Pulsacion\bin\Debug\netcoreapp3.1\Pulsacion.exe
+C:\Users\Fabian\Documents\ejerccioS C#\Pulsacion\bin\Debug\netcoreapp3.1\Pulsacion.deps.json
+C:\Users\Fabian\Documents\ejerccioS C#\Pulsacion\bin\Debug\netcoreapp3.1\Pulsacion.runtimeconfig.json
+C:\Users\Fabian\Documents\ejerccioS C#\Pulsacion\bin\Debug\netcoreapp3.1\Pulsacion.runtimeconfig.dev.json
+C:\Users\Fabian\Documents\ejerccioS C#\Pulsacion\bin\Debug\netcoreapp3.1\Pulsacion.dll
+C:\Users\Fabian\Documents\ejerccioS C#\Pulsacion\bin\Debug\netcoreapp3.1\Pulsacion.pdb
+C:\Users\Fabian\Documents\ejerccioS C#\Pulsacion\obj\Debug\netcoreapp3.1\Pulsacion.csproj.AssemblyReference.cache
+C:\Users\Fabian\Documents\ejerccioS C#\Pulsacion\obj\Debug\netcoreapp3.1\Pulsacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian\Documents\ejerccioS C#\Pulsacion\obj\Debug\netcoreapp3.1\Pulsacion.AssemblyInfoInputs.cache
+C:\Users\Fabian\Documents\ejerccioS C#\Pulsacion\obj\Debug\netcoreapp3.1\Pulsacion.AssemblyInfo.cs
+C:\Users\Fabian\Documents\ejerccioS C#\Pulsacion\obj\Debug\netcoreapp3.1\Pulsacion.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Documents\ejerccioS C#\Pulsacion\obj\Debug\netcoreapp3.1\Pulsacion.dll
+C:\Users\Fabian\Documents\ejerccioS C#\Pulsacion\obj\Debug\netcoreapp3.1\Pulsacion.pdb
+C:\Users\Fabian\Documents\ejerccioS C#\Pulsacion\obj\Debug\netcoreapp3.1\Pulsacion.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Fabian\Documents\ejerccioS C#\PromedioNota\bin\Debug\netcoreapp3.1\PromedioNota.exe
+C:\Users\Fabian\Documents\ejerccioS C#\PromedioNota\bin\Debug\netcoreapp3.1\PromedioNota.deps.json
+C:\Users\Fabian\Documents\ejerccioS C#\PromedioNota\bin\Debug\netcoreapp3.1\PromedioNota.runtimeconfig.json
+C:\Users\Fabian\Documents\ejerccioS C#\PromedioNota\bin\Debug\netcoreapp3.1\PromedioNota.runtimeconfig.dev.json
+C:\Users\Fabian\Documents\ejerccioS C#\PromedioNota\bin\Debug\netcoreapp3.1\PromedioNota.dll
+C:\Users\Fabian\Documents\ejerccioS C#\PromedioNota\bin\Debug\netcoreapp3.1\PromedioNota.pdb
+C:\Users\Fabian\Documents\ejerccioS C#\PromedioNota\obj\Debug\netcoreapp3.1\PromedioNota.csproj.AssemblyReference.cache
+C:\Users\Fabian\Documents\ejerccioS C#\PromedioNota\obj\Debug\netcoreapp3.1\PromedioNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian\Documents\ejerccioS C#\PromedioNota\obj\Debug\netcoreapp3.1\PromedioNota.AssemblyInfoInputs.cache
+C:\Users\Fabian\Documents\ejerccioS C#\PromedioNota\obj\Debug\netcoreapp3.1\PromedioNota.AssemblyInfo.cs
+C:\Users\Fabian\Documents\ejerccioS C#\PromedioNota\obj\Debug\netcoreapp3.1\PromedioNota.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Documents\ejerccioS C#\PromedioNota\obj\Debug\netcoreapp3.1\PromedioNota.dll
+C:\Users\Fabian\Documents\ejerccioS C#\PromedioNota\obj\Debug\netcoreapp3.1\PromedioNota.pdb
+C:\Users\Fabian\Documents\ejerccioS C#\PromedioNota\obj\Debug\netcoreapp3.1\PromedioNota.genruntimeconfig.cache

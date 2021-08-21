@@ -1,0 +1,14 @@
+C:\Users\Fabian\Documents\ejerccioS C#\Financiera\bin\Debug\netcoreapp3.1\Financiera.exe
+C:\Users\Fabian\Documents\ejerccioS C#\Financiera\bin\Debug\netcoreapp3.1\Financiera.deps.json
+C:\Users\Fabian\Documents\ejerccioS C#\Financiera\bin\Debug\netcoreapp3.1\Financiera.runtimeconfig.json
+C:\Users\Fabian\Documents\ejerccioS C#\Financiera\bin\Debug\netcoreapp3.1\Financiera.runtimeconfig.dev.json
+C:\Users\Fabian\Documents\ejerccioS C#\Financiera\bin\Debug\netcoreapp3.1\Financiera.dll
+C:\Users\Fabian\Documents\ejerccioS C#\Financiera\bin\Debug\netcoreapp3.1\Financiera.pdb
+C:\Users\Fabian\Documents\ejerccioS C#\Financiera\obj\Debug\netcoreapp3.1\Financiera.csproj.AssemblyReference.cache
+C:\Users\Fabian\Documents\ejerccioS C#\Financiera\obj\Debug\netcoreapp3.1\Financiera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian\Documents\ejerccioS C#\Financiera\obj\Debug\netcoreapp3.1\Financiera.AssemblyInfoInputs.cache
+C:\Users\Fabian\Documents\ejerccioS C#\Financiera\obj\Debug\netcoreapp3.1\Financiera.AssemblyInfo.cs
+C:\Users\Fabian\Documents\ejerccioS C#\Financiera\obj\Debug\netcoreapp3.1\Financiera.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Documents\ejerccioS C#\Financiera\obj\Debug\netcoreapp3.1\Financiera.dll
+C:\Users\Fabian\Documents\ejerccioS C#\Financiera\obj\Debug\netcoreapp3.1\Financiera.pdb
+C:\Users\Fabian\Documents\ejerccioS C#\Financiera\obj\Debug\netcoreapp3.1\Financiera.genruntimeconfig.cache
